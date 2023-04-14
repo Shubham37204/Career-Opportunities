@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    list-style: none;
+    display: flex
+}
+
+.pad {
+    margin-right: 5vh
+}
+
+.icon {
+    font-size: 1.75pc;
+    margin-top: 1pc;
+}
+
+h1 {
+    margin-top: 3pc;
+    margin-left: 0pc;
+}

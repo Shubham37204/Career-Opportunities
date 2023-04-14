@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.color {
+    background-color: #2a63ec;
+    height: 65vh;
+}
+
+.row {
+    padding-top: 7pc;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 3pc !important;
+}
+
+.big {
+    background-color: #2a63ec;
+    height: 70vh;
+    margin-top: 7pc;
+    margin-left: -2pc;
+}
+
+.chitra {
+    height: 9vh;
+    margin-left: -17pc;
+    margin-top: 8pc;
+}
+
+.h22 {
+    margin-top: 1pc;
+    margin-left: -16pc;
+    color: black;
+}
+
+span {
+    font-size: 3pc;
+    margin-right: 11pc;
+}
+
+.neel {
+    margin-left: -14pc;
+    margin-top: 1pc;
+}
+
+.neel:hover {
+    background-color: black;
+    color: white;
+}
+
+.h23 {
+    margin-top: 5pc;
+    color: black;
+}
+
+.naya {
+    padding: 1pc;
+    width: 20%;
+    margin-left: 29pc;
+    background-color:  #2a63ec;
+    color: white;
+    margin-bottom: 2pc;
+}
